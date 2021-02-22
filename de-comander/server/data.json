@@ -1,0 +1,7 @@
+{
+	"simple": {
+		"key":"value",
+		"key1":"value1"
+	},
+	"test" : {"TestMainKey":["TestMainValue1","TestMainValue2"],"TestSecondKey":"TestValue"}
+}
