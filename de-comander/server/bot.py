@@ -2,8 +2,8 @@ import telebot
 from keyboards import *
 from server import handler
 
-admins = (823785495,)
-token = "1605899600:AAGi7qcY5aKYH2wWiGVeKLucZuj7WZVD_HU"
+admins = (8888888888,)
+token = "token"
 bot = telebot.TeleBot(token)
 users_choice = {}
 
